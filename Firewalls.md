@@ -1,4 +1,4 @@
-# 🔥 Firewall Report
+# Firewall Report
 
 ## 1. Introduction
 - A **firewall** is a security device or software that controls traffic between networks.
