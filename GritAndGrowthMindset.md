@@ -2,6 +2,7 @@
 
 Question 1
 Paraphrase (summarize) the video in a few (1 or 2) lines. Use your own words.
+
 =>In a world that's always pushing us, success often hinges on two crucial qualities: passion and perseverance. They're powerful on their own, but truly unstoppable when combined.
 Passion is that deep excitement and joy you feel for something. It's the inner spark that makes you eager to dedicate extra effort, learn, and innovate, transforming work into a calling.
 But passion needs a partner. Perseverance is your stubborn commitment to keep going, even when things get tough. It's the resilience to bounce back from failures, learn from mistakes, and adapt your approach.
@@ -11,6 +12,7 @@ Ultimately, by finding what truly excites you and committing to the hard work it
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Question 2
+
 Paraphrase (summarize) the video in a few (1 or 2) lines in your own words.
 =>A growth mindset is the belief that your fundamental abilities, intelligence, and talents aren't set in stone. Instead, you understand that you can develop and improve these qualities through dedication, hard work, and continuous learning.
 It's about seeing challenges as opportunities to grow, not as roadblocks. When faced with a setback, someone with a growth mindset doesn't think, "I'm not good enough," but rather, "What can I learn from this? How can I improve?" They embrace feedback, knowing it's a valuable tool for progress, and they find inspiration in the success of others.
@@ -19,6 +21,7 @@ Ultimately, adopting a growth mindset means you have an unshakable belief in you
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Question 3
+
 What is the Internal Locus of Control? What is the key point in the video?
 =>Internal locus of control is a psychological concept that describes the extent to which individuals believe they have control over the outcomes of their lives and experiences. Simply put, if you have an internal locus of control, you believe that your successes and failures are primarily a result of your own actions, efforts, and choices, rather than external factors like luck, fate, or other people.
               The key point of an internal locus of control is personal agency and responsibility. It signifies a belief that you are the primary driver of your own destiny. This leads to several important characteristics:
@@ -30,6 +33,7 @@ What is the Internal Locus of Control? What is the key point in the video?
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Question 4
+
 What are the key points mentioned by speaker to build growth mindset (explanation not needed).
 =>Embrace challenges: See difficulties as opportunities for learning and growth, not as threats.
 View failure as a learning opportunity/temporary setback: Don't let mistakes define you; instead, extract lessons from them.
@@ -46,8 +50,8 @@ Seek out new experiences/get out of your comfort zone: Deliberately try new thin
 Find your purpose: Connect your efforts to a larger meaning to sustain motivation.
 Celebrate the success of others: Be inspired by others' achievements and learn from them.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 Question 5
+
 What are your ideas to take action and build Growth Mindset?
 =>Actively Seek Out Challenging Projects and Tasks: Instead of sticking to what you know, volunteer for features that push your current skills, involve new technologies, or require complex problem-solving. This could mean tackling an unfamiliar API, optimizing a slow system, or architecting a new module.
 Embrace and Learn from Every Bug and Error: Don't see bugs as failures, but as invaluable puzzles. When a bug appears, delve deep into understanding its root cause. Document the issue, your debugging process, and the solution. This transforms frustration into a powerful learning experience.
