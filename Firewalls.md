@@ -98,3 +98,17 @@
 - Firewalls are critical for maintaining network security.
 - They should be part of a multi-layered defense strategy.
 - Regular updates, monitoring, and integration with other security tools enhance their effectiveness.
+
+
+##References:-
+Stallings, W. (2017). Network Security Essentials: Applications and Standards (6th ed.). Pearson.
+Comprehensive resource on firewalls, network architectures, and security principles.
+
+National Institute of Standards and Technology (NIST). (2009). Guide to Firewalls and Firewall Policy (SP 800-41 Rev. 1).
+https://csrc.nist.gov/publications/detail/sp/800-41/rev-1/final
+
+Fortinet. (n.d.). Firewall Security Explained
+Definitions, use cases, and architecture examples from a popular firewall vendor.
+
+Sophos. (n.d.). Sophos XG Firewall Overview
+Details on Sophos’ NGFW features and network deployment options.
