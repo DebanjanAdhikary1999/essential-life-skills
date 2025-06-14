@@ -100,7 +100,7 @@
 - Regular updates, monitoring, and integration with other security tools enhance their effectiveness.
 
 
-##References:-
+## 11. References
 Stallings, W. (2017). Network Security Essentials: Applications and Standards (6th ed.). Pearson.
 Comprehensive resource on firewalls, network architectures, and security principles.
 
